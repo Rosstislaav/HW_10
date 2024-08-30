@@ -1,0 +1,47 @@
+    1  git config --global user.name "Rostyslav Kyrychenko"
+    2  git config --global user.email icetime2682@gmail.com
+    3  git clone https://github.com/Rosstislaav/HW_10.git
+    4  cd HW_10
+    5  touch text_ignore.txt
+    6  vim .gitignore
+    7  nano .gitignore
+    8  nano .gitignore
+    9  git status
+   10  git status
+   11  ls
+   12  git add
+   13  git status
+   14  git add text_ignore.txt
+   15  git add .gitignore
+   16  git add text_ignore.txt
+   17  f
+   18  git add -f text_ignore.txt
+   19  git add -f .gitignore
+   20  git commit -m"New text_ignore.txt file added"
+   21  git status
+   22  touch main_test.txt
+   23  git add main-test.txt
+   24  git add main_test.txt
+   25  git commit -m "New main_test.txt file added
+
+git commit -m "New maine)test.txt file added"
+   26  git commit -m "New main_test.txt file added"
+   27  git checkout -b develop
+   28  git brunch
+   29  git branch
+   30  touch develop_test.txt
+   31  git add develop_test.txt
+   32  git commit -m "New develop_test.txt file added"
+   33  nano develop_twst.txt
+   34  git status
+   35  rm develop_twst.txt
+   36  nano develop_test.txt
+   37  git status
+   38  git add develop_test.txt
+   39  git commit -m "New develop_test.txt file added"
+   40  git checkout branch_main
+   41  git checkout_main
+   42  git checkout main
+   43  git merge develop
+   44  git log
+   45  history > command_list.csv
